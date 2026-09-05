@@ -49,7 +49,7 @@ COUNT = 5
 VERSION = "1.0.0"
 """Version of the script"""
 
-GIT_COMMIT_MESSAGE = "shipping carefully"
+GIT_COMMIT_MESSAGE = "AI rubber duck said it looked fine"
 """Git commit message"""
 
 EXCLUDE_LANGUAGES = { "HTML", "CSS", "Dockerfile", "Shell", "Makefile", "Batchfile", "QML" }
